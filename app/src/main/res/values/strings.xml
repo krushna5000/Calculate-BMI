@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="hint_ht">Enter Your Height(In FT)</string>
+    <string name="hint_htI">Enter Your Height(In In)</string>
+    <string name="hint_wt">Enter Your Weight</string>
+    <string name="hint_Result">Result</string>
+    <string name="hint_CalculateBMI">Calculate BMI</string>
+
+
+</resources>
